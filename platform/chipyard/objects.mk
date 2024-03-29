@@ -11,7 +11,7 @@ platform-asflags-y =
 platform-ldflags-y =
 
 # Objects to build
-DT_NAME = SimBlockDeviceRocketConfig
+DT_NAME = SimBlockDeviceMegaBoomConfig
 
 platform-objs-y += ../generic/platform.o
 platform-objs-y += ../generic/platform_override_modules.o
